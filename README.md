@@ -25,9 +25,8 @@
 
  - **1주차**
     - 계획수립
- - **2주차** 스택/큐
-     - 프로그래머스 스택/큐 프린터 https://programmers.co.kr/learn/courses/30/lessons/42587
- - **3주차** 재귀   
+    - 프로그래머스 스택/큐 프린터 https://programmers.co.kr/learn/courses/30/lessons/42587
+ - **2주차** 재귀   
     - **1, 2, 3 더하기 https://www.acmicpc.net/problem/9095**
     - 1로 만들기 https://www.acmicpc.net/problem/1463
     - 부분수열의 합 https://www.acmicpc.net/problem/1182
