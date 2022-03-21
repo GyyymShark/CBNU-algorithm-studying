@@ -31,7 +31,14 @@
     - 1로 만들기 https://www.acmicpc.net/problem/1463
     - 부분수열의 합 https://www.acmicpc.net/problem/1182
     - 하노이 탑 이동 순서 https://www.acmicpc.net/problem/11729
-    - 암호 만들기 https://www.acmicpc.net/problem/1759         
+    - 암호 만들기 https://www.acmicpc.net/problem/1759
+  - **3주차** 그리디알고리즘
+    - 동전 0 https://www.acmicpc.net/problem/11047
+    - ATM https://www.acmicpc.net/problem/11399
+    - **로프 https://www.acmicpc.net/problem/2217**
+    - 회의실 배정 https://www.acmicpc.net/problem/1931
+    - 강의실 배정 https://www.acmicpc.net/problem/11000
+    - 수 묶기 https://www.acmicpc.net/problem/1744      
  </details>
  
 ## 알고리즘 공부 방법
