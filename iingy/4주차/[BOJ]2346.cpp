@@ -1,59 +1,41 @@
+//πÈ¡ÿ 2346 «≥º± ≈Õ∂ﬂ∏Æ±‚
+
 #include <iostream>
-#include <list>
+#include <utility>
 #include <vector>
 using namespace std;
-vector<int> arr;
 
 int main() {
-	int temp, N, v = 0, c = 0;
+    int N;
+    cin >> N;
 
-	list<int> li;
-	list<int>::iterator it;
-	cin >> N;
-	for (int i = 1; i <= N; i++) {
-		cin >> temp;
-		li.push_back(temp);
-		arr.push_back(i);
-	}
-	it = li.begin();
-	while (1) {
-		if (li.empty()) break;
-		temp = *it;
-		li.erase(it);
-		c++;
-		arr[v] = c;
-		
-		if (temp > 0) {
-			for (int i = 0; i < temp-1; i++) {
-				if (it == li.end()) {
-					it = li.begin();
-					v++;
-				}
-				else {
-					it++;
-					v++;
-				}
-			}
-			v++;
-		}
-		else {
-			for (int i = 0; i < temp - 1; i++) {
-				if (it == li.end()) {
-					it = li.begin();
-					v++;
-				}
-				else {
-					it++;
-					v++;
-				}
-			}
-			v--;
-		}
-	}
+    vector<pair<int, int>> v;
 
+    for (int i = 1; i <= N; i++) {
+        int get;
+        cin >> get;
+        v.push_back(make_pair(i, get));
+    }
 
-		for (int i = 0; i < arr.size(); i++) {
-			cout << arr[i] << " ";
-		}
+    while (!v.empty()) {
+        cout << v.front().first << " ";
+        int num = v.front().second;
+        v.erase(v.begin());
+
+        if (v.empty()) return 0;
+
+        if (num > 0) {
+            for (int i = 0; i < num - 1; i++) {
+                v.push_back(v.front());
+                v.erase(v.begin());
+            }
+        }
+        else {
+            for (int i = 0; i < abs(num); i++) {
+                v.insert(v.begin(), v.back());
+                v.erase(v.end() - 1);
+            }
+        }
+    }
 
 }
