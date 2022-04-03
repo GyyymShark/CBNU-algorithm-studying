@@ -45,6 +45,12 @@
     - 풍선 터뜨리기 https://www.acmicpc.net/problem/2346
     - 행운의 바퀴 https://www.acmicpc.net/problem/2840
     - 뱀 https://www.acmicpc.net/problem/3190
+  - **5주차** 그래프
+    - **DFS 와 BFS https://www.acmicpc.net/problem/1260**
+    - 전쟁 - 전투 https://www.acmicpc.net/problem/1303
+    - 숨바꼭질 https://www.acmicpc.net/problem/1697
+    - 네트워크 연결 https://www.acmicpc.net/problem/1922
+    - 타임머신 https://www.acmicpc.net/problem/11657
  </details>
  
 ## 알고리즘 공부 방법
