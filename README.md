@@ -8,14 +8,14 @@
 
 |이름|1주차|2주차|3주차|4주차|5주차|6주차|7주차|8주차|9주차|
 |------|---|---|---|---|---|---|---|---|---|
-|권성민|**O**|**O**|****|****|****|****|****|****|****|
-|정종현|**O**|**O**|****|****|****|****|****|****|****|
-|정재민|**O**|**O**|****|****|****|****|****|****|****|
-|노민성|**O**|**O**|****|****|****|****|****|****|****|
-|임상우|**O**|**O**|****|****|****|****|****|****|****|
-|주시원|**x**|**O**|****|****|****|****|****|****|****|
-|김정현|**x**|**O**|****|****|****|****|****|****|****|
-|이인규|**O**|**O**|****|****|****|****|****|****|****|
+|권성민|**O**|**O**|**O**|**x**|****|****|****|****|****|
+|정종현|**O**|**O**|**x**|**O**|****|****|****|****|****|
+|정재민|**O**|**O**|**O**|**O**|****|****|****|****|****|
+|노민성|**O**|**O**|**O**|**O**|****|****|****|****|****|
+|임상우|**O**|**O**|**O**|**O**|****|****|****|****|****|
+|주시원|**x**|**O**|**x**|**x**|****|****|****|****|****|
+|김정현|**x**|**O**|**O**|**O**|****|****|****|****|****|
+|이인규|**O**|**O**|**O**|**O**|****|****|****|****|****|
 
 </details>
 
@@ -25,14 +25,32 @@
 
  - **1주차**
     - 계획수립
- - **2주차** 스택/큐
-     - 프로그래머스 스택/큐 프린터 https://programmers.co.kr/learn/courses/30/lessons/42587
- - **3주차** 재귀   
+    - 프로그래머스 스택/큐 프린터 https://programmers.co.kr/learn/courses/30/lessons/42587
+ - **2주차** 재귀   
     - **1, 2, 3 더하기 https://www.acmicpc.net/problem/9095**
     - 1로 만들기 https://www.acmicpc.net/problem/1463
     - 부분수열의 합 https://www.acmicpc.net/problem/1182
     - 하노이 탑 이동 순서 https://www.acmicpc.net/problem/11729
-    - 암호 만들기 https://www.acmicpc.net/problem/1759         
+    - 암호 만들기 https://www.acmicpc.net/problem/1759
+  - **3주차** 그리디알고리즘
+    - 동전 0 https://www.acmicpc.net/problem/11047
+    - ATM https://www.acmicpc.net/problem/11399
+    - **로프 https://www.acmicpc.net/problem/2217**
+    - 회의실 배정 https://www.acmicpc.net/problem/1931
+    - 강의실 배정 https://www.acmicpc.net/problem/11000
+    - 수 묶기 https://www.acmicpc.net/problem/1744
+  - **4주차** 연결리스트
+    - 회전하는 큐 https://www.acmicpc.net/problem/1021
+    - **요세푸스 문제 https://www.acmicpc.net/problem/1158**
+    - 풍선 터뜨리기 https://www.acmicpc.net/problem/2346
+    - 행운의 바퀴 https://www.acmicpc.net/problem/2840
+    - 뱀 https://www.acmicpc.net/problem/3190
+  - **5주차** 그래프
+    - **DFS 와 BFS https://www.acmicpc.net/problem/1260**
+    - 전쟁 - 전투 https://www.acmicpc.net/problem/1303
+    - 숨바꼭질 https://www.acmicpc.net/problem/1697
+    - 네트워크 연결 https://www.acmicpc.net/problem/1922
+    - 타임머신 https://www.acmicpc.net/problem/11657
  </details>
  
 ## 알고리즘 공부 방법
