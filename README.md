@@ -57,7 +57,7 @@
   - **9주차** 완전탐색
      - **모든순열 https://www.acmicpc.net/problem/10974**
   - **10주차** 이진탐색
-     - **나무자르기 https://www.acmicpc.net/problem/10974**
+     - **나무자르기 https://www.acmicpc.net/problem/2805**
    
  </details>
  
