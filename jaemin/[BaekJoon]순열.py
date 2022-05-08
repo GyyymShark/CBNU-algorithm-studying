@@ -1,4 +1,4 @@
-from itertools import permutations
+from itertools import permutations//수
 number= int(input())
 N_list = [i for i in range(1, number+1)]
 

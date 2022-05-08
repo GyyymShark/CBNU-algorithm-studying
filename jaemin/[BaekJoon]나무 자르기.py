@@ -1,4 +1,4 @@
-N, M = map(int, input().split())
+N, M = map(int, input().split())//수
 tree = list(map(int, input().split()))
 start, end = 1, max(tree) 
 
