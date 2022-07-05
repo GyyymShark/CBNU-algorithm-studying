@@ -90,7 +90,9 @@
   - **15주차** 중간고사대비
   - **16주차** 자체휴강?
   - **17주차** 프로그래머스-신규 아이디 추천
-     - ** https://school.programmers.co.kr/learn/courses/30/lessons/72410**
+     - **https://school.programmers.co.kr/learn/courses/30/lessons/72410**
+  - **18주차** 삼성기출문제
+      - **연산자 끼워넣기 https://www.acmicpc.net/problem/14888**
  </details>
  
 ## 알고리즘 공부 방법
