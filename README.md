@@ -93,8 +93,6 @@
      - **https://school.programmers.co.kr/learn/courses/30/lessons/72410**
   - **18주차** 삼성기출문제
       - **연산자 끼워넣기 https://www.acmicpc.net/problem/14888**
-  - **18주차** 삼성기출문제
-      - **연산자 끼워넣기 https://www.acmicpc.net/problem/14888**
   - **19주차** 삼성기출문제
       - **스타트와 링크 https://www.acmicpc.net/problem/14889**
   - **20주차** 삼성기출문제
