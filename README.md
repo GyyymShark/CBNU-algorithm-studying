@@ -96,7 +96,9 @@
   - **18주차** 삼성기출문제
       - **연산자 끼워넣기 https://www.acmicpc.net/problem/14888**
   - **19주차** 삼성기출문제
-      - **스타트와 링크 https://www.acmicpc.net/problem/14889** 
+      - **스타트와 링크 https://www.acmicpc.net/problem/14889**
+  - **20주차** 삼성기출문제
+      - **연구소 https://www.acmicpc.net/problem/14502**
  </details>
  
 ## 알고리즘 공부 방법
