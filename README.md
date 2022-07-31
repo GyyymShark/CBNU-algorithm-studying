@@ -99,7 +99,7 @@
   - **20주차** 삼성기출문제
       - **연구소 https://www.acmicpc.net/problem/14502**
   - **21주차** 프로그래머스
-      - **신고결과받기 https://www.acmicpc.net/problem/14502**
+      - **신고결과받기 https://school.programmers.co.kr/learn/courses/30/lessons/92334**
  </details>
  
 ## 알고리즘 공부 방법
