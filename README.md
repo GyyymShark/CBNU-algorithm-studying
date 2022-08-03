@@ -89,16 +89,20 @@
   - **14주차** 기말고사대비
   - **15주차** 기말고사대비
   - **16주차** 프로그래머스
-  - **크레인 인형뽑기 https://school.programmers.co.kr/learn/courses/30/lessons/64061**
+      - **크레인 인형뽑기 https://school.programmers.co.kr/learn/courses/30/lessons/64061**
+  - **17주차** 프로그래머스
+      - **신규 아이디 추천 https://school.programmers.co.kr/learn/courses/30/lessons/72410**
   - **17주차** 프로그래머스
       - **신규 아이디 추천 https://school.programmers.co.kr/learn/courses/30/lessons/72410**
   - **18주차** 삼성기출문제
-      - **연산자 끼워넣기 https://www.acmicpc.net/problem/14888**
-  - **19주차** 삼성기출문제
-      - **스타트와 링크 https://www.acmicpc.net/problem/14889**
+      - **신규 아이디 추천 https://school.programmers.co.kr/learn/courses/30/lessons/72410**
+  - **19주차** 프로그래머스
+      - **타겟넘버 https://school.programmers.co.kr/learn/courses/30/lessons/43165**
   - **20주차** 삼성기출문제
+      - **연산자 끼워넣기  https://www.acmicpc.net/problem/14888**
+  - **21주차** 삼성기출문제
       - **연구소 https://www.acmicpc.net/problem/14502**
-  - **21주차** 프로그래머스
+  - **22주차** 프로그래머스
       - **신고결과받기 https://school.programmers.co.kr/learn/courses/30/lessons/92334**
  </details>
  
