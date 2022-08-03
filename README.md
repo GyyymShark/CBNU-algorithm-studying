@@ -92,10 +92,8 @@
       - **크레인 인형뽑기 https://school.programmers.co.kr/learn/courses/30/lessons/64061**
   - **17주차** 프로그래머스
       - **신규 아이디 추천 https://school.programmers.co.kr/learn/courses/30/lessons/72410**
-  - **17주차** 프로그래머스
-      - **신규 아이디 추천 https://school.programmers.co.kr/learn/courses/30/lessons/72410**
   - **18주차** 삼성기출문제
-      - **신규 아이디 추천 https://school.programmers.co.kr/learn/courses/30/lessons/72410**
+      - **오큰수 https://www.acmicpc.net/problem/17298**
   - **19주차** 프로그래머스
       - **타겟넘버 https://school.programmers.co.kr/learn/courses/30/lessons/43165**
   - **20주차** 삼성기출문제
