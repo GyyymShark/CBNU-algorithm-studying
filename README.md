@@ -101,7 +101,7 @@
   - **21주차** 삼성기출문제
       - **연구소 https://www.acmicpc.net/problem/14502**
   - **22주차** 프로그래머스
-      - **신고결과받기 https://school.programmers.co.kr/learn/courses/30/lessons/92334**
+      - **키패드누르기 https://school.programmers.co.kr/learn/courses/30/lessons/67256**
  </details>
  
 ## 알고리즘 공부 방법
